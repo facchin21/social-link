@@ -15,8 +15,8 @@ Puedes encontrar el diseño original en [Frontend Mentor](https://www.frontendme
 ## Estructura del Proyecto
 - `/public`: Contiene archivos estáticos como imágenes.
 - `/src`: Contiene el código fuente del proyecto.
-  - `/assets`: Archivos de recursos como imágenes, fuentes, etc.
+  - `/assets`: Archivos de recursos como imágenes.
   - `/components`: Componentes reutilizables.
-  - `/styles`: Estilos globales y configuración de Tailwind CSS.
-  - `App.js`: Componente principal de la aplicación.
-  - `index.js`: Punto de entrada de la aplicación.
+  - `index.css`: Estilos globales y configuración de Tailwind CSS.
+  - `App.jsx`: Componente principal de la aplicación.
+  - `main.jsx`: Punto de entrada de la aplicación.
